@@ -19,3 +19,16 @@ I focus on solving practical engineering problems, understanding system behaviou
 - **Enterprise Systems:** MLM platforms, POS applications and enterprise software.
 - **Geospatial Systems:** GIS, positioning and location-based monitoring.
 - **System Engineering:** Windows utilities, file processing and system-level tools.
+
+## Engineering Approach
+
+My work typically involves taking ownership of the complete product lifecycle:
+
+- **Problem Analysis:** Understanding business requirements and identifying practical solutions.
+- **Architecture & Design:** Defining system components, data models, integrations and workflows.
+- **Experimentation:** Evaluating technologies and approaches before committing to implementation.
+- **Engineering:** Developing complete applications, backend systems, integrations and interfaces.
+- **Deployment & Delivery:** Taking products into working environments.
+- **Continuous Improvement:** Refining systems based on practical requirements and technical findings.
+
+I value practical problem-solving, architectural clarity, maintainability and choosing technology based on actual requirements.
